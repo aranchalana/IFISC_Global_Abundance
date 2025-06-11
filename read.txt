@@ -1,0 +1,1 @@
+./4_reference_extraction_pipeline.sh -s "./SEED_PAPERS/MAMMALS_greenspoon-et-al-the-global-biomass-of-wild-mammals.pdf" -ck CLAUDE-KEY -o "./my_results" -mp 30 -md 1
